@@ -1,0 +1,7 @@
+Which formula do you want to see?
+
+1. Apple
+2. Bannana
+3. Orange
+4. None of them
+Menu 1 selected
